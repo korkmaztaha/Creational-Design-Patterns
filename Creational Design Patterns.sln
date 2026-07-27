@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Design_Pattern", "Singleton_Design_Pattern\Singleton_Design_Pattern.csproj", "{ECBE23B8-6BA5-4480-B9C2-794F67EC4C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Design_Pattern_AspNetCore", "Singleton_Design_Pattern_AspNetCore\Singleton_Design_Pattern_AspNetCore.csproj", "{42EE1235-0C5B-4D53-B66D-A069C33D64B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBE23B8-6BA5-4480-B9C2-794F67EC4C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBE23B8-6BA5-4480-B9C2-794F67EC4C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBE23B8-6BA5-4480-B9C2-794F67EC4C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBE23B8-6BA5-4480-B9C2-794F67EC4C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EE1235-0C5B-4D53-B66D-A069C33D64B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EE1235-0C5B-4D53-B66D-A069C33D64B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EE1235-0C5B-4D53-B66D-A069C33D64B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EE1235-0C5B-4D53-B66D-A069C33D64B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

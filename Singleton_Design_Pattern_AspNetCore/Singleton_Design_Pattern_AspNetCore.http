@@ -1,0 +1,6 @@
+@Singleton_Design_Pattern_AspNetCore_HostAddress = http://localhost:5075
+
+GET {{Singleton_Design_Pattern_AspNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
